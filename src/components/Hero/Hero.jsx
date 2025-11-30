@@ -54,10 +54,10 @@ const Hero = () => {
                 <div className="relative z-10 space-y-4">
                   <h1 className="text-2xl">Since 2024</h1>
                   <p className="text-sm opacity-55 leading-loose">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Maxime, neque error inventore dolorem officia eaque,
-                    pariatur minima vero ipsam quis velit sint delectus.
-                    Delectus eos nobis neque quos voluptate laudantium.
+                    Sejak berdiri pada tahun 2024, Warkop 56 hadir untuk
+                    memberikan pengalaman ngopi yang nyaman dan hangat. Kami
+                    berkomitmen menyajikan kopi terbaik serta suasana yang bikin
+                    betah, baik untuk santai maupun kerja.
                   </p>
                 </div>
                 <div className="absolute -top-6 -left-10 w-[250px] h-[190px] bg-gray-700/25"></div>
@@ -75,9 +75,9 @@ const Hero = () => {
                   damping: 10,
                   delay: 0.4,
                 }}
-                src={CoffeMain}
-                alt="Coffee"
-                className="relative z-40 h-[400px] md:h-[700px] img-shadow"
+                // src={CoffeMain}
+                // alt="Coffee"
+                // className="relative z-40 h-[400px] md:h-[700px] img-shadow"
               />
               {/* Ring */}
               <motion.div
@@ -89,7 +89,7 @@ const Hero = () => {
                   damping: 10,
                   delay: 0.8,
                 }}
-                className="h-[180px] w-[180px] absolute top-24 -right-16 border-yellow-300 border-[20px] rounded-full z-10"
+                // className="h-[180px] w-[180px] absolute top-24 -right-16 border-yellow-300 border-[20px] rounded-full z-10"
               />
               {/* Background Text */}
               <motion.div
@@ -128,10 +128,11 @@ const Hero = () => {
                 <div className="relative z-10 space-y-4">
                   <h1 className="text-2xl">Historial 56</h1>
                   <p className="text-sm opacity-55 leading-loose">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Maxime, neque error inventore dolorem officia eaque,
-                    pariatur minima vero ipsam quis velit sint delectus.
-                    Delectus eos nobis neque quos voluptate laudantium.
+                    Warkop 56 berawal dari tempat nongkrong kecil yang kemudian
+                    berkembang menjadi ruang berkumpul favorit banyak orang.
+                    Dengan konsep sederhana namun berkesan, kami terus
+                    berinovasi untuk memberikan pelayanan dan cita rasa yang
+                    konsisten.
                   </p>
                 </div>
                 <div className="absolute -top-6 -right-10 w-[250px] h-[190px] bg-[#1B1F25]/50"></div>

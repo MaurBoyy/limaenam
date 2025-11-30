@@ -89,7 +89,7 @@ const Services = () => {
           }}
           className="text-3xl md:text-4xl font-bold text-[#262729]"
         >
-          Food & <span className="text-yellow-400">Drink</span>
+          Favorit <span className="text-yellow-400">Menu</span>
         </motion.h1>
 
         <motion.p
